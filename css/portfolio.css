@@ -1,0 +1,169 @@
+body {
+  background-color: rgba(245, 244, 250, 1);
+  color: rgba(117, 117, 117, 1);
+  font-family: "Roboto";
+  font-style: normal;
+}
+
+/* Header */
+.header {
+  background-color: rgba(236, 236, 236, 1);
+}
+
+/* Logo */
+.logo {
+  font-family: "Raleway";
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+}
+
+.logo-2 {
+  color: rgba(0, 0, 0, 0.986);
+}
+
+.logo-1 {
+  color: rgba(33, 150, 243, 1);
+}
+/* Link */
+.header-list {
+  list-style: none;
+}
+.header-link-1,
+.header-link-2,
+.header-link-3 {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+.header-link-2 {
+  color: rgba(33, 150, 243, 1);
+}
+.header-link-1,
+.header-link-3 {
+  color: rgba(33, 33, 33, 1);
+}
+.header-link-1:hover,
+.header-link-1:focus,
+.header-link-3:hover,
+.header-link-3:focus {
+  color: rgba(33, 150, 243, 1);
+}
+
+/* Contacts */
+.header-contacts {
+  list-style: none;
+}
+.header-tel,
+.header-e-mail {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+.header-e-mail {
+  color: rgba(117, 117, 117, 1);
+}
+.header-tel {
+  color: rgba(117, 117, 117, 1);
+}
+.header-tel:hover,
+.header-e-mail:hover,
+.header-tel:focus,
+.header-e-mail:focus {
+  color: rgba(33, 150, 243, 1);
+}
+
+/* Portfolio */
+
+.portfolio {
+  /* width: 1170px;
+  height: 1360px;
+  left: 215px;
+  top: 112px; */
+}
+
+/* Filters */
+
+.filters-list {
+  list-style: none;
+}
+.filters-btm {
+  background-color: rgba(245, 244, 250, 1);
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 162%;
+
+  letter-spacing: 0.03em;
+}
+.filters-btm:hover,
+.filters-btm:focus {
+  background-color: rgba(33, 150, 243, 1);
+}
+
+.filters-btm-active {
+  background-color: rgba(33, 150, 243, 1);
+}
+/* Projects */
+.projects-list {
+  list-style: none;
+}
+.projects-title {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 200%;
+  letter-spacing: 0.06em;
+  color: rgba(33, 33, 33, 1);
+}
+.projects-subtitle {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 188%;
+  letter-spacing: 0.03em;
+  color: rgb(117, 117, 117);
+}
+
+/* Footer */
+.footer {
+  background-color: rgba(47, 48, 58, 1);
+}
+.footer-logo {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+}
+.footer-logo-1 {
+  color: rgba(33, 150, 243, 1);
+}
+.footer-logo-2 {
+  color: rgba(255, 255, 255, 1);
+}
+.footer-list {
+  list-style: none;
+}
+.footer-link-1 {
+  color: rgba(255, 255, 255, 1);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  letter-spacing: 0.03em;
+}
+.footer-link {
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  letter-spacing: 0.03em;
+}
+.footer-link:hover,
+.footer-link:focus,
+.footer-link-1:hover,
+.footer-link-1:focus {
+  color: rgba(33, 150, 243, 1);
+}
