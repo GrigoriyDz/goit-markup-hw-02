@@ -1,8 +1,7 @@
 body {
   background-color: rgba(245, 244, 250, 1);
   color: rgba(117, 117, 117, 1);
-  font-family: "Roboto", "Raleway";
-  font-style: normal;
+  font-family: "Roboto", "Montserrat", "sans-serif";
 }
 
 /* Header */
@@ -17,6 +16,7 @@ body {
   font-size: 26px;
   line-height: 31px;
   letter-spacing: 0.03em;
+  text-decoration: none;
 }
 
 .logo-2 {
@@ -37,6 +37,7 @@ body {
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
+  text-decoration: none;
 }
 .header-link-2 {
   color: rgba(33, 150, 243, 1);
@@ -62,6 +63,7 @@ body {
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
+  text-decoration: none;
 }
 .header-e-mail {
   color: rgba(117, 117, 117, 1);
@@ -119,8 +121,6 @@ body {
   color: rgba(33, 33, 33, 1);
 }
 .projects-subtitle {
-  font-weight: 400;
-  font-size: 16px;
   line-height: 188%;
   letter-spacing: 0.03em;
   color: rgb(117, 117, 117);
@@ -137,12 +137,16 @@ body {
   font-size: 26px;
   line-height: 31px;
   letter-spacing: 0.03em;
+  text-decoration: none;
 }
 .footer-logo-1 {
   color: rgba(33, 150, 243, 1);
 }
 .footer-logo-2 {
   color: rgba(255, 255, 255, 1);
+}
+.footer-adress {
+  font-style: normal;
 }
 .footer-list {
   list-style: none;
@@ -153,13 +157,15 @@ body {
   font-size: 14px;
   line-height: 171%;
   letter-spacing: 0.03em;
+  text-decoration: none;
 }
-.footer-link {
+.footer-link2 {
   color: rgba(255, 255, 255, 0.6);
   font-weight: 400;
   font-size: 14px;
   line-height: 171%;
   letter-spacing: 0.03em;
+  text-decoration: none;
 }
 .footer-link:hover,
 .footer-link:focus,
