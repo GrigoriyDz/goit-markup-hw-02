@@ -1,7 +1,7 @@
 body {
   background-color: rgba(245, 244, 250, 1);
   color: rgba(117, 117, 117, 1);
-  font-family: "Roboto", "Montserrat", "sans-serif";
+  font-family: "Roboto", "sans-serif";
 }
 
 /* Header */
@@ -14,7 +14,7 @@ body {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 2;
   letter-spacing: 0.03em;
   text-decoration: none;
 }
@@ -35,7 +35,7 @@ body {
 .header-link-3 {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1;
   letter-spacing: 0.02em;
   text-decoration: none;
 }
@@ -61,7 +61,7 @@ body {
 .header-e-mail {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1;
   letter-spacing: 0.02em;
   text-decoration: none;
 }
@@ -97,8 +97,8 @@ body {
   cursor: pointer;
   font-weight: 500;
   font-size: 16px;
-  line-height: 162%;
-
+  line-height: 1.6;
+  font-family: inherit;
   letter-spacing: 0.03em;
 }
 .filters-btm:hover,
@@ -116,12 +116,12 @@ body {
 .projects-title {
   font-weight: 700;
   font-size: 18px;
-  line-height: 200%;
+  line-height: 2;
   letter-spacing: 0.06em;
   color: rgba(33, 33, 33, 1);
 }
 .projects-subtitle {
-  line-height: 188%;
+  line-height: 1.9;
   letter-spacing: 0.03em;
   color: rgb(117, 117, 117);
 }
@@ -135,7 +135,7 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 2;
   letter-spacing: 0.03em;
   text-decoration: none;
 }
@@ -155,7 +155,7 @@ body {
   color: rgba(255, 255, 255, 1);
   font-weight: 400;
   font-size: 14px;
-  line-height: 171%;
+  line-height: 1.5;
   letter-spacing: 0.03em;
   text-decoration: none;
 }
@@ -163,7 +163,7 @@ body {
   color: rgba(255, 255, 255, 0.6);
   font-weight: 400;
   font-size: 14px;
-  line-height: 171%;
+  line-height: 1.5;
   letter-spacing: 0.03em;
   text-decoration: none;
 }
