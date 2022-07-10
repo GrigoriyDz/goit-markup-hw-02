@@ -7,8 +7,13 @@ body {
 /* Header */
 .header {
   background-color: rgba(236, 236, 236, 1);
+  /* width: 1600px;
+  border: 1px solid rgba(236, 236, 236, 1); */
 }
-
+/* .header-container {
+  display: flex;
+  align-items: center;
+} */
 /* Logo */
 .logo {
   font-family: "Raleway";
@@ -18,6 +23,10 @@ body {
   letter-spacing: 0.03em;
   text-decoration: none;
 }
+/* .logo {
+  width: 145px;
+  margin-left: 215px;
+} */
 
 .logo-2 {
   color: rgba(0, 0, 0, 0.986);
@@ -27,9 +36,30 @@ body {
   color: rgba(33, 150, 243, 1);
 }
 /* Link */
-.header-list {
+/* .header-nav {
+  width: 293px;
+  left: 450px;
+
+  margin-left: 93px;
+  /* margin-top: 32px; */
+/* } */ 
+
+.header-list,
+.header-contacts {
   list-style: none;
+  /* display: flex;
+  gap: 50px;
+  padding: 0; */
 }
+/* .header-item1 {
+  width: 49px;
+}
+.header-item2 {
+  width: 76px;
+}
+.header-item3 {
+  width: 68px;
+} */
 .header-link-1,
 .header-link-2,
 .header-link-3 {
@@ -54,9 +84,12 @@ body {
 }
 
 /* Contacts */
-.header-contacts {
-  list-style: none;
-}
+/* .header-contacts {
+  width: 310px;
+  margin-left: 330px;
+  margin-right: 215px;
+} */
+
 .header-tel,
 .header-e-mail {
   font-weight: 500;
@@ -67,9 +100,11 @@ body {
 }
 .header-e-mail {
   color: rgba(117, 117, 117, 1);
+  width: 135px;
 }
 .header-tel {
   color: rgba(117, 117, 117, 1);
+  width: 185px;
 }
 .header-tel:hover,
 .header-e-mail:hover,
