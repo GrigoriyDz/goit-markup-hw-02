@@ -14,7 +14,7 @@ body {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 26px;
-  line-height: 2;
+  line-height: 1.2;
   letter-spacing: 0.03em;
   text-decoration: none;
 }
@@ -35,7 +35,7 @@ body {
 .header-link-3 {
   font-weight: 500;
   font-size: 14px;
-  line-height: 1;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   text-decoration: none;
 }
@@ -61,7 +61,7 @@ body {
 .header-e-mail {
   font-weight: 500;
   font-size: 14px;
-  line-height: 1;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   text-decoration: none;
 }
@@ -135,7 +135,7 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
-  line-height: 2;
+  line-height: 1.2;
   letter-spacing: 0.03em;
   text-decoration: none;
 }
@@ -155,7 +155,7 @@ body {
   color: rgba(255, 255, 255, 1);
   font-weight: 400;
   font-size: 14px;
-  line-height: 1.5;
+  line-height: 1.7;
   letter-spacing: 0.03em;
   text-decoration: none;
 }
@@ -163,7 +163,7 @@ body {
   color: rgba(255, 255, 255, 0.6);
   font-weight: 400;
   font-size: 14px;
-  line-height: 1.5;
+  line-height: 1.7;
   letter-spacing: 0.03em;
   text-decoration: none;
 }
